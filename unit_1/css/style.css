@@ -10,3 +10,7 @@ h1, p {
 	font-family: pacifico;
 	src: url(pacifico.ttf);
 }
+
+div {
+	font-family: pacifico;
+}
