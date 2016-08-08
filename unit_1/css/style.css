@@ -2,15 +2,6 @@ body {
 	background-color: gray;
 }
 
-@font-face {
-	font-family: pacifico;
-	src: url(pacifico.ttf);
-}
-
 h1, p {
 	color: white;
-}
-
-h1 {
-	font-family: pacifico;
 }
