@@ -24,5 +24,7 @@ hr {
 	border-radius: 150px;
 }
 p {
+	left: 50%;
+	margin-right: -50%;
 	width: 75%;
 }
