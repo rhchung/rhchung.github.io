@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Sigmar+One|Lora);
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One|Lora|Lobster);
 body {
 	background-color: #fff;
 	color: #000;
@@ -8,7 +8,7 @@ body {
 	text-align: center;
 }
 h1 {
-	font-family: 'Sigmar One', cursive;
+	font-family: 'Lobster', cursive;
 	text-transform: lowercase;
 	font-size: 60px;
 }
