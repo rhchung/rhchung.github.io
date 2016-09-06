@@ -24,6 +24,6 @@ hr {
 	border-radius: 150px;
 }
 p {
-	left: 50%;
+	margin-left: 50%;
 	margin-right: -50%;
 }
