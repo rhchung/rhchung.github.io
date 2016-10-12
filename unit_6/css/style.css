@@ -1,0 +1,151 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One|Lora|Lobster);
+body {
+	background-color: #fff;
+	color: #000;
+	font-family: 'Lora', serif;
+	font-size:14px;
+	line-height:1.5;
+	text-align: center;
+}
+header {
+	background-image: url('../images/heidelberg.jpg');
+}
+/*div {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+nav {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+header {
+	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 20px;
+}
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+    padding: 20px;
+}
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+    padding: 20px;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}*/
+ul {
+  list-style: none;
+  text-align: left;
+}
+li {
+  display: inline;
+  font-family: 'Lora', serif;
+  font-size: 1em;
+  text-transform: lowercase;
+  list-style-type: none;
+  padding-left: 40px;
+}
+h1 {
+	font-family: 'Lobster', cursive;
+	text-transform: lowercase;
+	font-size: 80px;
+	color: #BF382C;
+}
+p {
+	margin-left: 120px;
+	margin-right: 120px;
+}
+hr {
+	width: 90%;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	color: #  ddd;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+#three_column {
+	/*background-color: #FFB7CF;
+	border: 1px black solid;*/
+    padding: 20px;
+}
+#design_section {
+    /*background-color: #E582A2;
+    border: 1px black solid;*/
+    padding: 5px 15px;
+    float: left;
+    width: 30%;
+}
+#food_section {
+    /*background-color: #E55B88;
+    border: 1px black solid;*/
+    padding: 5px 15px;
+ 	float: left;
+    width: 30%;
+}
+#travel_section {
+    /*background-color: #FFB7CF;
+    border: 1px black solid;*/
+    padding: 5px 15px;
+    float: left;
+    width: 30%;
+}
+#topnav_left {
+	float: left;
+}
+#topnav_right {
+	float: right;
+}
+#bottom_nav {
+	display: inline-block;
+    list-style-type: none;
+    padding: 0;
+}
+#home {
+	font-family: 'Lobster', cursive;
+	text-transform: lowercase;
+	font-size: 25px;
+	color: #BF382C;
+	text-align: left
+	
+}
+.social_media {
+	width: 15px;
+}
+#slogan {
+	font-size: 1.3em;
+	padding-bottom: 40px;
+}
+.img_rachel_circle {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+}
+#site_logo_bottom {
+	font-family: 'Lobster', cursive;
+	text-transform: lowercase;
+	font-size: 25px;
+	color: #BF382C;
+	text-align: center;
+}
