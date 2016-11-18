@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Quicksand');
+
+.horizontal {
+	display:flex;
+}
+
+#top_nav {
+	padding: 1% 32% 1% 32%;
+}
+
+#top_nav_about {
+	padding: 1% 32% 1% 32%;
+}
+
+.nav_page {
+	width: 33.33%;
+	margin: auto;
+	text-align: center;
+}
+
+.rachel_profile {
+	margin: auto;
+	text-align: center;
+	padding-top:2%;
+	padding-bottom:2%;
+}
+
+.img_rachel_circle {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+}
+
+a:link {
+	font-family: 'Josefin Sans', sans-serif;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #9B9B9B;
+}
+
+a:visited {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #9B9B9B;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-transform: uppercase;f
+	color: #000;
+}
+
+a:active {
+	text-decoration: underline;
+	text-transform: uppercase;
+	color: #000;
+}
+
+h1 {
+	color: #FF6507;
+	font-family: 'Quicksand', sans-serif;
+	text-transform: uppercase;
+	font-size: 50px;
+	text-align: center;
+}
+
+#project_showcase img {
+	width: 100px;
+}
+
+#header {
+	width: 100%;
+}
+
+.header_img {
+	padding: 5% 25% 5% 25%;
+}
+
+#footer {
+	margin: auto;
+	text-align: center;
+}
+
