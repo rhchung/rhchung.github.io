@@ -149,3 +149,29 @@ h5 {
 		width: 100%;
 	}
 }
+
+@media screen and (max-width: 1180px) {
+	.rachel_profile {
+		margin: auto;
+		text-align: center;
+		padding-top:5%;
+		padding-bottom:5%;
+		padding-left:0%;
+		background-color: #E6E5E6;
+	}
+
+	.img_rachel_circle {
+		width: 18em;
+		height: 18em;
+		border-radius: 50%;
+	}
+
+	.about_section {
+		width: 100%;
+		float: none;
+	}
+
+	h6 {
+		padding: 0% 10% 0% 10%;
+	}
+}
